@@ -1,0 +1,412 @@
+Match_ID,Home_Team,No_of_50s_HT,Double_Century_HT,Away_Team,No_of_50s_AT,Double_Century_AT
+1000851,South Africa,2,0,Australia,2,0
+1000853,South Africa,2,0,Australia,0,0
+1000855,South Africa,1,0,Australia,4,0
+1000881,Australia,3,0,Pakistan,1,0
+1000883,Pakistan,3,1,Australia,5,0
+1000885,Australia,3,0,Pakistan,2,0
+1004251,Papua New Guinea,1,0,Namibia,1,0
+1019985,New Zealand,4,0,Bangladesh,5,1
+1019987,New Zealand,3,0,Bangladesh,2,0
+1019993,New Zealand,1,0,Pakistan,0,0
+1019995,Pakistan,1,0,New Zealand,1,0
+1020041,South Africa,3,0,New Zealand,3,0
+1020043,South Africa,2,0,New Zealand,1,0
+1020045,South Africa,3,0,New Zealand,4,0
+1022593,India,4,1,West Indies,2,0
+1022595,West Indies,1,0,India,2,0
+1022597,West Indies,1,0,India,3,0
+1022599,West Indies,0,0,India,0,0
+1024041,Zimbabwe,0,0,New Zealand,4,0
+1024043,New Zealand,5,0,Zimbabwe,3,0
+1029825,England,2,0,Bangladesh,1,0
+1029827,Bangladesh,2,0,England,1,0
+1030213,India,2,0,New Zealand,2,0
+1030215,India,3,0,New Zealand,0,0
+1031437,England,4,0,South Africa,4,0
+1034809,England,3,0,India,3,0
+1034811,India,3,0,England,3,0
+1034813,England,1,0,India,5,0
+1034815,England,3,0,India,3,1
+1034817,England,4,0,India,5,1
+1041761,India,6,1,Bangladesh,3,0
+1050229,Pakistan,4,1,West Indies,2,0
+1050231,Pakistan,4,0,West Indies,0,0
+1050233,Pakistan,4,0,West Indies,2,0
+1059702,Sri Lanka,5,0,Zimbabwe,2,0
+1059703,Zimbabwe,3,0,Sri Lanka,3,0
+1062573,Australia,2,0,India,1,0
+1062574,India,1,0,Australia,2,0
+1062575,Australia,2,0,India,5,1
+1062576,Australia,3,0,India,3,0
+1068730,Netherlands,2,0,Hong Kong,4,0
+1077953,Pakistan,4,0,West Indies,3,0
+1077954,West Indies,2,0,Pakistan,3,0
+1077955,West Indies,1,0,Pakistan,4,0
+1083444,Sri Lanka,4,0,Bangladesh,3,0
+1083445,Sri Lanka,1,0,Bangladesh,4,0
+1127284,Ireland,0,0,Pakistan,3,0
+1168025,Australia,5,0,England,2,0
+1168120,Ireland,1,0,Afghanistan,3,0
+291352,Australia,4,0,India,5,0
+291353,India,2,0,Australia,2,0
+291354,India,5,0,Australia,4,0
+296900,England,3,0,New Zealand,1,0
+296901,New Zealand,3,0,England,1,0
+296902,New Zealand,0,0,England,3,0
+296909,South Africa,1,0,England,4,0
+296910,South Africa,2,0,England,0,0
+296911,England,2,0,South Africa,2,0
+296912,South Africa,0,0,England,2,0
+298802,West Indies,2,0,South Africa,2,0
+298803,South Africa,5,0,West Indies,0,0
+300429,New Zealand,2,0,Bangladesh,1,0
+300430,New Zealand,2,0,Bangladesh,0,0
+300442,New Zealand,4,0,England,3,0
+300443,New Zealand,2,0,England,2,0
+300444,England,1,0,New Zealand,1,0
+319132,Sri Lanka,5,0,West Indies,1,0
+319133,West Indies,1,0,Sri Lanka,2,0
+319139,Australia,4,0,West Indies,2,0
+319140,Australia,4,0,West Indies,3,0
+319141,West Indies,1,0,Australia,1,0
+323947,Bangladesh,0,0,South Africa,0,0
+323948,South Africa,2,2,Bangladesh,1,0
+332911,South Africa,4,0,India,3,1
+332912,India,0,0,South Africa,2,1
+332913,South Africa,2,0,India,2,0
+343729,Sri Lanka,4,0,India,1,0
+343730,India,2,1,Sri Lanka,3,0
+343731,India,1,0,Sri Lanka,1,0
+345669,Australia,3,0,India,3,0
+345670,India,4,0,Australia,2,0
+345671,India,3,2,Australia,5,0
+345672,India,5,0,Australia,2,0
+345970,England,3,0,Australia,5,0
+345971,England,2,0,Australia,1,0
+345972,Australia,1,0,England,4,0
+345973,England,0,0,Australia,4,0
+345974,England,2,0,Australia,1,0
+350345,Bangladesh,0,0,South Africa,3,0
+350346,Bangladesh,2,0,South Africa,3,0
+350472,Australia,5,0,South Africa,1,0
+350473,Australia,3,0,South Africa,1,0
+350474,Australia,1,0,South Africa,4,0
+351679,New Zealand,0,0,Australia,1,0
+351680,New Zealand,1,0,Australia,4,0
+351681,Australia,3,0,South Africa,2,0
+351682,Australia,3,0,South Africa,3,0
+351683,Australia,2,0,South Africa,2,0
+352661,England,2,0,West Indies,3,0
+352662,West Indies,0,0,England,0,0
+352663,England,5,0,West Indies,5,1
+352664,England,3,0,West Indies,3,0
+361050,England,3,0,India,1,0
+361051,India,2,0,England,3,0
+361759,Bangladesh,0,0,New Zealand,2,0
+366628,India,4,0,New Zealand,2,0
+366629,New Zealand,0,0,India,3,0
+378751,Sri Lanka,3,0,Bangladesh,1,0
+380712,West Indies,0,0,England,2,0
+380713,England,4,0,West Indies,2,0
+386496,New Zealand,5,1,India,2,0
+387570,England,2,0,South Africa,2,0
+387571,South Africa,3,0,England,5,0
+387572,England,2,0,South Africa,2,0
+387573,England,0,0,South Africa,4,0
+388993,Sri Lanka,4,2,Pakistan,5,1
+388994,Pakistan,1,0,Sri Lanka,3,1
+390680,West Indies,1,0,England,5,0
+401071,Bangladesh,0,0,West Indies,2,0
+401072,Bangladesh,0,0,West Indies,2,0
+403367,Pakistan,2,0,Sri Lanka,1,0
+403368,Pakistan,0,0,Sri Lanka,1,0
+403369,Sri Lanka,1,0,Pakistan,2,0
+403378,New Zealand,1,0,Sri Lanka,3,0
+403379,Sri Lanka,3,0,New Zealand,1,0
+406189,Australia,5,0,West Indies,2,0
+406190,West Indies,3,0,Australia,4,0
+406191,Australia,5,0,West Indies,2,0
+406199,Australia,5,0,Pakistan,2,0
+406200,Australia,0,0,Pakistan,2,0
+406201,Australia,2,1,Pakistan,2,0
+423778,Pakistan,2,0,New Zealand,4,0
+423779,New Zealand,0,0,Pakistan,1,0
+423780,Pakistan,1,0,New Zealand,4,0
+423786,Bangladesh,3,0,New Zealand,2,0
+423789,Australia,3,0,New Zealand,0,0
+423790,Australia,1,0,New Zealand,1,0
+426394,Pakistan,1,0,Australia,2,0
+426395,Australia,0,0,Pakistan,0,0
+426401,Bangladesh,2,0,England,2,1
+426402,England,3,0,Bangladesh,1,0
+426413,England,2,0,Pakistan,1,0
+426414,Pakistan,0,0,England,2,0
+426415,England,1,0,Pakistan,2,0
+426416,Pakistan,0,0,England,2,0
+426423,Bangladesh,3,0,England,4,0
+426424,Bangladesh,4,0,England,4,0
+428749,England,2,1,Australia,3,0
+428750,Australia,3,0,England,4,1
+428751,England,2,0,Australia,3,0
+428752,England,5,0,Australia,0,0
+428753,Australia,1,0,England,4,0
+430881,India,3,0,Sri Lanka,4,1
+430882,India,5,0,Sri Lanka,0,0
+430883,Sri Lanka,3,0,India,6,1
+434256,Bangladesh,1,0,India,2,0
+434257,Bangladesh,1,0,India,5,0
+439152,South Africa,3,0,West Indies,0,0
+439153,South Africa,4,0,West Indies,5,0
+439154,West Indies,1,0,South Africa,3,0
+441825,South Africa,3,1,India,2,0
+441826,South Africa,2,0,India,4,0
+456669,Sri Lanka,4,0,India,2,0
+456670,Sri Lanka,5,1,India,5,1
+456671,Sri Lanka,3,0,India,3,0
+461571,South Africa,4,0,Pakistan,2,0
+461572,Pakistan,4,0,South Africa,2,1
+463146,South Africa,5,1,India,0,0
+463147,South Africa,0,0,India,0,0
+463148,India,2,0,South Africa,2,0
+464526,Australia,3,0,India,4,0
+464527,Australia,4,0,India,2,1
+464531,India,3,0,New Zealand,4,0
+464532,New Zealand,3,1,India,4,0
+464533,New Zealand,1,0,India,5,0
+464987,West Indies,4,1,Sri Lanka,4,0
+464988,Sri Lanka,2,0,West Indies,2,0
+464989,Sri Lanka,0,0,West Indies,4,0
+473921,Pakistan,3,0,New Zealand,4,0
+473922,New Zealand,3,0,Pakistan,4,0
+474463,Sri Lanka,4,0,England,3,1
+474464,Sri Lanka,2,0,England,5,0
+474465,England,4,0,Sri Lanka,0,0
+474472,India,1,0,England,3,1
+474473,India,3,0,England,1,0
+474474,England,5,1,India,1,0
+474475,England,2,1,India,1,0
+489218,West Indies,0,0,Pakistan,0,0
+489219,Pakistan,3,0,West Indies,1,0
+489226,India,2,0,West Indies,1,0
+489227,West Indies,1,0,India,2,0
+489228,India,4,0,West Indies,2,0
+514029,South Africa,0,0,Australia,1,0
+514030,South Africa,3,0,Australia,2,0
+514032,South Africa,3,0,Sri Lanka,0,0
+514033,Sri Lanka,2,0,South Africa,1,0
+514034,Sri Lanka,1,0,South Africa,4,1
+516212,Australia,1,0,Sri Lanka,0,0
+516213,Sri Lanka,1,0,Australia,2,0
+516214,Sri Lanka,4,0,Australia,2,0
+518947,New Zealand,2,0,Australia,3,0
+518948,Australia,0,0,New Zealand,1,0
+518950,Australia,2,0,India,3,0
+518951,India,1,0,Australia,3,1
+518952,Australia,2,0,India,0,0
+518953,Australia,2,2,India,1,0
+520591,Zimbabwe,0,0,New Zealand,4,0
+520603,New Zealand,0,0,South Africa,3,0
+520604,South Africa,1,0,New Zealand,1,0
+520605,New Zealand,1,0,South Africa,3,0
+521225,Sri Lanka,1,0,England,1,0
+521226,Sri Lanka,3,0,England,4,0
+522245,Bangladesh,3,0,Zimbabwe,3,0
+523731,Pakistan,4,0,Zimbabwe,1,0
+527017,New Zealand,3,0,Zimbabwe,3,0
+530424,Pakistan,3,1,Sri Lanka,1,1
+530425,Sri Lanka,1,0,Pakistan,3,0
+530426,Sri Lanka,2,0,Pakistan,3,0
+531628,England,1,0,Pakistan,4,0
+531629,Pakistan,2,0,England,3,0
+531630,Pakistan,0,0,England,1,0
+531986,Bangladesh,2,0,West Indies,1,0
+531987,West Indies,3,0,Bangladesh,1,0
+534205,England,3,0,West Indies,1,0
+534206,West Indies,2,0,England,2,0
+534207,England,2,0,West Indies,3,0
+534225,England,3,0,South Africa,3,1
+534226,England,2,0,South Africa,2,0
+534227,South Africa,2,0,England,2,0
+535997,West Indies,2,0,India,2,0
+535998,India,4,0,West Indies,0,0
+535999,West Indies,6,0,India,5,0
+538072,Pakistan,4,1,Bangladesh,0,0
+538073,Pakistan,4,0,Bangladesh,2,0
+540176,West Indies,4,0,Australia,2,0
+540177,Australia,2,0,West Indies,2,0
+540178,Australia,2,0,West Indies,1,0
+560929,New Zealand,1,0,West Indies,5,0
+560930,West Indies,1,0,New Zealand,2,0
+562444,Sri Lanka,3,0,Pakistan,0,0
+562445,Sri Lanka,2,0,Pakistan,4,0
+562446,Sri Lanka,3,0,Pakistan,1,0
+565806,India,3,1,England,0,0
+565807,India,2,0,England,2,0
+565808,India,3,0,England,4,0
+565809,England,4,0,India,2,0
+565817,India,3,0,New Zealand,0,0
+565818,New Zealand,3,0,India,3,0
+566921,England,0,0,New Zealand,2,0
+566922,England,2,0,New Zealand,0,0
+566932,England,0,0,Australia,3,0
+566933,England,3,0,Australia,0,0
+566934,Australia,5,0,England,3,0
+566935,England,1,0,Australia,2,0
+566936,Australia,2,0,England,2,0
+567356,New Zealand,0,0,South Africa,4,0
+567357,South Africa,5,0,New Zealand,1,0
+567363,South Africa,1,0,Pakistan,0,0
+567364,South Africa,2,0,Pakistan,2,0
+567365,South Africa,3,0,Pakistan,0,0
+569243,New Zealand,3,0,England,0,0
+569244,New Zealand,2,0,England,4,0
+569245,England,1,0,New Zealand,2,0
+573007,South Africa,3,0,Australia,3,1
+573008,Australia,3,1,South Africa,4,0
+573009,South Africa,1,0,Australia,1,0
+573011,Australia,5,0,Sri Lanka,2,0
+573012,Sri Lanka,1,0,Australia,4,0
+573013,Australia,4,0,Sri Lanka,2,0
+582192,New Zealand,2,0,Sri Lanka,2,0
+582193,New Zealand,3,0,Sri Lanka,1,0
+587469,West Indies,3,1,Bangladesh,5,0
+587470,Bangladesh,3,0,West Indies,3,1
+592397,Australia,2,0,England,0,0
+592398,Australia,6,0,England,2,0
+592399,Australia,3,0,England,1,0
+592400,Australia,2,0,England,1,0
+592401,England,0,0,Australia,2,0
+593722,Australia,3,0,England,2,0
+593988,Zimbabwe,1,0,West Indies,3,0
+593989,West Indies,3,0,Zimbabwe,0,0
+598812,Australia,3,0,India,3,1
+598813,Australia,2,0,India,2,1
+598814,Australia,4,0,India,3,0
+598815,Australia,1,0,India,2,0
+602472,Sri Lanka,4,0,Bangladesh,4,1
+602473,Sri Lanka,2,0,Bangladesh,1,0
+623576,Bangladesh,0,0,Zimbabwe,2,0
+623577,Zimbabwe,1,0,Bangladesh,3,0
+648665,India,1,0,South Africa,2,0
+648667,India,3,0,South Africa,4,0
+648673,South Africa,1,0,Australia,2,0
+648675,South Africa,4,0,Australia,1,0
+648677,Australia,3,0,South Africa,2,0
+649087,South Africa,2,0,Pakistan,4,0
+649089,Pakistan,0,0,South Africa,2,1
+657647,Pakistan,2,0,Sri Lanka,1,0
+657649,Sri Lanka,2,0,Pakistan,1,0
+657651,Sri Lanka,3,0,Pakistan,3,0
+659555,Zimbabwe,3,0,Pakistan,2,1
+659557,Zimbabwe,2,0,Pakistan,2,0
+661679,West Indies,1,1,New Zealand,4,1
+661681,West Indies,2,0,New Zealand,2,0
+661683,New Zealand,2,0,West Indies,2,0
+667651,India,1,0,New Zealand,3,1
+667653,India,3,0,New Zealand,0,1
+667711,India,4,0,England,4,0
+667713,England,2,0,India,1,0
+667715,England,4,0,India,2,0
+667717,India,1,0,England,3,0
+667719,England,3,0,India,1,0
+667899,Sri Lanka,4,0,England,3,1
+667901,England,3,0,Sri Lanka,1,0
+668949,New Zealand,4,0,Bangladesh,3,0
+668951,Bangladesh,1,0,New Zealand,5,0
+676525,West Indies,1,0,India,2,0
+676527,India,4,0,West Indies,0,0
+690347,Sri Lanka,6,1,Bangladesh,2,0
+690349,Sri Lanka,2,1,Bangladesh,3,0
+722329,West Indies,0,0,South Africa,3,1
+722331,West Indies,2,0,South Africa,3,0
+722333,West Indies,3,0,South Africa,3,0
+722387,India,0,0,England,0,0
+727929,Pakistan,3,1,Australia,1,0
+730089,South Africa,4,0,Sri Lanka,2,0
+730091,Sri Lanka,3,0,South Africa,1,0
+730277,New Zealand,5,0,West Indies,2,0
+730279,New Zealand,1,0,West Indies,4,0
+730281,New Zealand,1,0,West Indies,2,0
+730295,Bangladesh,1,0,West Indies,4,1
+730297,Bangladesh,1,0,West Indies,3,0
+736435,Zimbabwe,1,0,South Africa,4,0
+742611,Pakistan,5,0,New Zealand,1,0
+742613,New Zealand,1,0,Pakistan,3,0
+742615,Pakistan,1,0,New Zealand,6,1
+743939,New Zealand,5,0,England,4,0
+743941,England,2,0,New Zealand,2,0
+743963,England,4,0,Australia,1,0
+743965,Australia,2,1,England,2,0
+743967,Australia,1,0,England,3,0
+743969,England,2,0,Australia,0,0
+743971,England,0,0,Australia,4,0
+745153,Pakistan,4,0,Sri Lanka,4,1
+745155,Sri Lanka,1,0,Pakistan,2,0
+749777,Sri Lanka,1,0,New Zealand,3,0
+749779,Sri Lanka,2,1,New Zealand,1,1
+754737,Australia,3,0,India,4,0
+754739,India,2,0,Australia,4,0
+754741,Australia,5,0,India,3,0
+754743,Australia,6,0,India,4,0
+760781,Zimbabwe,1,0,Bangladesh,3,0
+760783,Bangladesh,3,0,Zimbabwe,2,0
+760785,Bangladesh,3,0,Zimbabwe,4,0
+766929,West Indies,1,0,England,3,0
+766931,England,4,0,West Indies,1,0
+766933,England,2,0,West Indies,1,0
+798375,Australia,1,0,England,0,0
+800461,South Africa,1,0,England,2,0
+800463,England,4,1,South Africa,5,1
+800465,South Africa,0,0,England,2,0
+800467,South Africa,3,0,England,3,0
+810423,West Indies,0,0,Australia,1,0
+810425,West Indies,2,0,Australia,1,0
+817213,South Africa,1,0,Bangladesh,3,0
+817215,Bangladesh,1,0,South Africa,0,0
+858493,Bangladesh,2,1,Pakistan,5,1
+858495,Bangladesh,1,0,Pakistan,3,1
+860263,Pakistan,3,0,Sri Lanka,2,0
+860265,Pakistan,0,0,Sri Lanka,2,0
+860267,Pakistan,2,0,Sri Lanka,1,0
+870729,India,3,0,Bangladesh,1,0
+892509,Australia,4,0,New Zealand,1,0
+892511,Australia,2,1,New Zealand,2,1
+892513,New Zealand,1,0,Australia,2,0
+892515,Australia,3,1,West Indies,1,0
+892517,West Indies,2,0,Australia,4,0
+892519,West Indies,3,0,Australia,1,0
+895773,Sri Lanka,2,0,India,3,0
+895775,India,4,0,Sri Lanka,3,0
+895777,Sri Lanka,1,0,India,2,0
+902635,Pakistan,3,1,England,4,1
+902637,Pakistan,4,0,England,2,0
+902639,Pakistan,1,0,England,1,0
+903603,India,1,0,South Africa,1,0
+903605,India,0,0,South Africa,1,0
+903607,India,0,0,South Africa,0,0
+903609,India,2,0,South Africa,0,0
+911047,Hong Kong,3,0,United Arab Emirates,1,0
+913613,Sri Lanka,0,0,England,2,0
+913615,England,3,0,Sri Lanka,0,0
+913617,England,3,0,Sri Lanka,2,0
+913641,Pakistan,2,0,England,1,0
+913643,England,4,1,Pakistan,1,0
+913645,Pakistan,3,0,England,2,0
+913647,England,2,0,Pakistan,2,1
+914203,Sri Lanka,2,0,New Zealand,3,0
+914205,New Zealand,1,0,Sri Lanka,2,0
+914237,Australia,3,1,New Zealand,0,0
+914239,Australia,3,0,New Zealand,3,0
+915773,Sri Lanka,2,0,West Indies,1,0
+915775,Sri Lanka,1,0,West Indies,0,0
+936127,South Africa,1,0,New Zealand,0,0
+936129,New Zealand,1,0,South Africa,5,0
+936147,South Africa,2,0,Sri Lanka,0,0
+936149,Sri Lanka,0,0,South Africa,2,0
+936151,South Africa,2,0,Sri Lanka,0,0
+952193,Papua New Guinea,1,0,Ireland,1,0
+952195,Namibia,0,0,Afghanistan,1,0
+995451,Sri Lanka,0,0,Australia,0,0
+995453,Sri Lanka,2,0,Australia,0,0
+995455,Sri Lanka,2,0,Australia,3,0
